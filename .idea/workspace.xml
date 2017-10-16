@@ -2,26 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59149020-4813-4ed3-b9d5-a5ce89b13931" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/0-test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/01_canvas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/02_svg.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/03_mathml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/04_drag_drop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/05_geolocation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/06_video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/07_audio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/08_input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/09_forms_elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/10_forms_attributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/11_semantic_elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/12_webstorage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/12_webstorage_demo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/01_tiy.html" afterPath="$PROJECT_DIR$/01_tutorial_html/01_tiy.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/02_headings.html" afterPath="$PROJECT_DIR$/01_tutorial_html/02_headings.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/03_paragraph.html" afterPath="$PROJECT_DIR$/01_tutorial_html/03_paragraph.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/04_formatting.html" afterPath="$PROJECT_DIR$/01_tutorial_html/04_formatting.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/05_links.html" afterPath="$PROJECT_DIR$/01_tutorial_html/05_links.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/06_head.html" afterPath="$PROJECT_DIR$/01_tutorial_html/06_head.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/07_images.html" afterPath="$PROJECT_DIR$/01_tutorial_html/07_images.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/08_table.html" afterPath="$PROJECT_DIR$/01_tutorial_html/08_table.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/09_list.html" afterPath="$PROJECT_DIR$/01_tutorial_html/09_list.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/10_blocks.html" afterPath="$PROJECT_DIR$/01_tutorial_html/10_blocks.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/11_layouts_1.html" afterPath="$PROJECT_DIR$/01_tutorial_html/11_layouts_1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/11_layouts_2.html" afterPath="$PROJECT_DIR$/01_tutorial_html/11_layouts_2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/12_datalist.html" afterPath="$PROJECT_DIR$/01_tutorial_html/12_datalist.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/12_forms.html" afterPath="$PROJECT_DIR$/01_tutorial_html/12_forms.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/12_keygen.html" afterPath="$PROJECT_DIR$/01_tutorial_html/12_keygen.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/12_output.html" afterPath="$PROJECT_DIR$/01_tutorial_html/12_output.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/12_select_optgroup.html" afterPath="$PROJECT_DIR$/01_tutorial_html/12_select_optgroup.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/13_iframe.html" afterPath="$PROJECT_DIR$/01_tutorial_html/13_iframe.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01_tutorial/14_quicklist.html" afterPath="$PROJECT_DIR$/01_tutorial_html/14_quicklist.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +27,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="12_webstorage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_intro_H5/12_webstorage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12_webstorage_demo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02_intro_H5/12_webstorage_demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,6 +89,20 @@
         <option value="$PROJECT_DIR$/01_tutorial/12_output.html" />
         <option value="$PROJECT_DIR$/01_tutorial/13_iframe.html" />
         <option value="$PROJECT_DIR$/01_tutorial/14_quicklist.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/01_canvas.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/02_svg.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/03_mathml.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/04_drag_drop.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/05_geolocation.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/06_video.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/07_audio.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/08_input.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/09_forms_elements.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/10_forms_attributes.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/11_semantic_elements.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/0-test.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/12_webstorage.html" />
+        <option value="$PROJECT_DIR$/02_intro_H5/12_webstorage_demo.html" />
       </list>
     </option>
   </component>
@@ -81,11 +113,33 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="432" />
-    <option name="y" value="48" />
-    <option name="width" value="719" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="663" />
+    <option name="width" value="710" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -105,9 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,17 +167,25 @@
               <item name="html_css_study_runoob" type="b2602c69:ProjectViewProjectNode" />
               <item name="html_css_study_runoob" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="html_css_study_runoob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html_css_study_runoob" type="462c0819:PsiDirectoryNode" />
+              <item name="02_intro_H5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,15 +293,18 @@
       <option name="presentableId" value="Default" />
       <updated>1507893082583</updated>
       <workItem from="1507893084245" duration="7652000" />
-      <workItem from="1507948414980" duration="11173000" />
+      <workItem from="1507948414980" duration="11328000" />
+      <workItem from="1508029090252" duration="13087000" />
+      <workItem from="1508113445001" duration="4591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18825000" />
+    <option name="totallyTimeSpent" value="36658000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="432" y="48" width="719" height="735" extended-state="1" />
+    <frame x="663" y="0" width="710" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -255,7 +318,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3474962" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36153847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -278,7 +341,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -286,7 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -294,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -330,7 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -338,7 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -346,10 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
           <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -357,9 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -367,7 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="61" column="9" lean-forward="false" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -375,14 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -390,12 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -403,7 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="40" column="15" lean-forward="true" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -411,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -419,7 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -427,7 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -435,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -443,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -451,7 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="104" column="4" lean-forward="true" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -459,7 +491,109 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
           <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/01_canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="129" column="13" lean-forward="true" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/02_svg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/03_mathml.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/04_drag_drop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/05_geolocation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/06_video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/07_audio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/08_input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/09_forms_elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/10_forms_attributes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="126" column="21" lean-forward="false" selection-start-line="126" selection-start-column="21" selection-end-line="126" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/0-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/11_semantic_elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/12_webstorage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/12_webstorage_demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

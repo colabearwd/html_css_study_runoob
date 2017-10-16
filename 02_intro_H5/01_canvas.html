@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>canvas</title>
+
+</head>
+<body>
+<div>
+    <canvas id="myCanvas" width="200" height="100"
+            style="border:1px solid #000000;">
+    </canvas>
+    <script>
+
+        var c=document.getElementById("myCanvas");
+        var ctx=c.getContext("2d");
+        ctx.fillStyle="#FF0000";
+        ctx.fillRect(0,0,150,75);
+
+    </script>
+</div>
+<hr>
+<div>
+    <canvas id="myCanvas1" width="200" height="100"
+            style="border: 1px solid #000000">
+
+    </canvas>
+    <script>
+        var c= document.getElementById("myCanvas1");
+        var ctx = c.getContext("2d");
+        ctx.moveTo(0,0);
+        ctx.lineTo(200,100);
+        ctx.stroke();
+    </script>
+</div>
+<hr>
+<div>
+    <canvas id="myCanvas2" width="200" height="100"
+            style="border: 1px solid #000000;">
+
+    </canvas>
+    <script>
+        var c=document.getElementById("myCanvas2");
+        var ctx=c.getContext("2d");
+        ctx.beginPath();
+        ctx.arc(95,50,40,0,2*Math.PI);
+//      arc(x,y,r,start,stop)
+        ctx.stroke();
+
+    </script>
+</div>
+<hr>
+<div>
+    <canvas id="myCanvas3" width="200" height="100"
+            style="border: 1px solid #000000">
+
+    </canvas>
+    <!--
+
+    font - 定义字体
+    fillText(text,x,y) - 在 canvas 上绘制实心的文本
+    strokeText(text,x,y) - 在 canvas 上绘制空心的文本
+    -->
+    <script>
+        var c= document.getElementById("myCanvas3");
+        var ctx=c.getContext("2d");
+        ctx.font="30px Arial";
+        ctx.fillText("hello world",10,50);
+    </script>
+</div>
+<hr>
+<div>
+    <canvas id="myCanvas4" width="200" height="100"
+            style="border: 1px solid #000000">
+
+    </canvas>
+    <script>
+        var c=document.getElementById("myCanvas4");
+        var ctx=c.getContext("2d");
+        ctx.font="30px Arial";
+        ctx.strokeText("hello world",10,50);
+    </script>
+
+</div>
+<hr>
+<!--
+
+    createLinearGradient(x,y,x1,y1) - 创建线条渐变
+    createRadialGradient(x,y,r,x1,y1,r1) - 创建一个径向/圆渐变
+
+-->
+<div>
+    <canvas id="myCanvas5" width="200" height="100"
+            style="border: 1px solid #000000">
+
+    </canvas>
+    <script>
+        var c=document.getElementById("myCanvas5");
+        var ctx=c.getContext("2d");
+
+        var grd=ctx.createLinearGradient(0,0,200,0)
+        grd.addColorStop(0,"red");
+        grd.addColorStop(1,"white");
+
+        ctx.fillStyle=grd;
+        ctx.fillRect(10,10,150,80);
+
+    </script>
+</div>
+<hr>
+<div>
+    <canvas id="myCanvas6" width="200" height="100"
+            style="border: 1px solid #000000">
+
+    </canvas>
+    <script>
+
+        var c=document.getElementById("myCanvas6");
+        var ctx=c.getContext("2d");
+
+        // 创建渐变
+        var grd=ctx.createRadialGradient(75,50,5,90,60,100);
+        grd.addColorStop(0,"red");
+        grd.addColorStop(1,"white");
+
+        // 填充渐变
+        ctx.fillStyle=grd;
+        ctx.fillRect(10,10,150,80);
+
+    </script>
+
+</div>
+<hr>
+
+</body>
+</html>

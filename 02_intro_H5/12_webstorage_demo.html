@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>webstorage</title>
+</head>
+<body>
+    <div style="border: 2px dashed #cccccc;width: 320px;text-align: center">
+        <label for="keyname">key name</label>
+        <input type="text" id="keyname" name="keyname" class="text">
+        <br>
+        <label for="siteurl">siteurl</label>
+        <input type="text" id="siteurl" name="siteurl">
+        <br>
+        <input type="button" onclick="save()" value="新增记录">
+        <hr>
+        <label for="searchname">search key name</label>
+        <input type="text" id="search-key-name" name="search-key-name">
+        <input type="button" onclick="find()" value="查找网站">
+        <p id="find_result"><br></p>
+
+    </div>
+    <br>
+    <div id="list">
+
+    </div>
+    <script>
+        function save() {
+            var site = new Object;
+            site.keyname =document.getElementById("keyname").value;
+            site.siteurl =document.getElementById("siteurl").value;
+            var str = JSON.stringify(site);
+            localStorage.setItem(site.keyname,str);
+            alert("保存成功");
+        }
+        function find() {
+            var search_site =document.getElementById("search-key-name").value;
+            var str = localStorage.getItem(search_site);
+            var find_result =document.getElementById("find_result");
+            var site = JSON.parse(str);
+            find_result.innerHTML=search_site+" 的url是： "+site.siteurl;
+
+        }
+        function loadAll() {
+            var list = document.getElementById("list");
+            if (localStorage.length>0)
+            {
+                var result = "<table border='1'>";
+                result+="<tr><td>keyname</td><td>siteurl</td></tr>"
+                for(var i=0;i<localStorage.length;i++)
+                {
+                    var keynaem = localStorage.key(i);
+                    var str = localStorage.getItem(keyname);
+                    var site = JSON.parse(str);
+                    result+="<tr><td>keyname</td><td>siteurl</td></tr>";
+                }
+
+            }
+            else{
+                list.innerHTML="数据为空。。。";
+            }
+
+        }
+    </script>
+</body>
+</html>

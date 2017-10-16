@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>webstorage</title>
+</head>
+<body>
+<div id="result">
+
+</div>
+<script>
+    if (typeof(Storage)!=="undefined")
+    {
+        localStorage.sitename = "这是我自己的域名";
+        document.getElementById("result").innerHTML="网站域名：" + localStorage.sitename;
+    }
+    else
+    {
+        document.getElementById("result").innerHTML="i'm so sorry you web didn't support storage";
+
+    }
+</script>
+</body>
+</html>
