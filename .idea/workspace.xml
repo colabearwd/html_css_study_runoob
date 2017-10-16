@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59149020-4813-4ed3-b9d5-a5ce89b13931" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/0-test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/01_canvas.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/02_svg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/03_mathml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/04_drag_drop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/05_geolocation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/06_video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/07_audio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/08_input.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/09_forms_elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/10_forms_attributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/11_semantic_elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/12_webstorage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_intro_H5/12_webstorage_demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02_intro_H5/12_webstorage_demo.html" afterPath="$PROJECT_DIR$/02_intro_H5/12_webstorage_demo.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="12_webstorage.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="12_webstorage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02_intro_H5/12_webstorage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="206">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="12_webstorage_demo.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="12_webstorage_demo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02_intro_H5/12_webstorage_demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            <state relative-caret-position="285">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -114,8 +100,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="663" />
-    <option name="width" value="710" />
+    <option name="x" value="650" />
+    <option name="width" value="723" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -295,15 +281,15 @@
       <workItem from="1507893084245" duration="7652000" />
       <workItem from="1507948414980" duration="11328000" />
       <workItem from="1508029090252" duration="13087000" />
-      <workItem from="1508113445001" duration="4591000" />
+      <workItem from="1508113445001" duration="7236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36658000" />
+    <option name="totallyTimeSpent" value="39303000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="663" y="0" width="710" height="735" extended-state="0" />
+    <frame x="650" y="0" width="723" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -579,21 +565,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_intro_H5/12_webstorage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_intro_H5/12_webstorage_demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="285">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_intro_H5/12_webstorage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

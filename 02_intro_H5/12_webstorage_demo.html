@@ -7,7 +7,7 @@
 <body>
     <div style="border: 2px dashed #cccccc;width: 320px;text-align: center">
         <label for="keyname">key name</label>
-        <input type="text" id="keyname" name="keyname" class="text">
+        <input type="text" id="keyname" name="keyname">
         <br>
         <label for="siteurl">siteurl</label>
         <input type="text" id="siteurl" name="siteurl">
@@ -49,7 +49,7 @@
                 result+="<tr><td>keyname</td><td>siteurl</td></tr>"
                 for(var i=0;i<localStorage.length;i++)
                 {
-                    var keynaem = localStorage.key(i);
+                    var keyname = localStorage.key(i);
                     var str = localStorage.getItem(keyname);
                     var site = JSON.parse(str);
                     result+="<tr><td>keyname</td><td>siteurl</td></tr>";
