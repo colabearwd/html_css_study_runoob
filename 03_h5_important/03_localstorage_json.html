@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>webstorage-json</title>
+</head>
+<body>
+<div style="border: 2px dashed #ccc;width:320px;text-align:center;">
+
+    <label for="sitename">网站名：</label>
+    <input type="text" id="sitename" name="sitename" />
+    <br/>
+    <label for="siteurl">网 址：</label>
+    <input type="text" id="siteurl" name="siteurl"/>
+    <br/>
+    <input type="button" onclick="save()" value="新增记录"/>
+    <hr/>
+    <label for="search_site">输入别名(key)：</label>
+    <input type="text" id="search_site" name="search_site"/>
+
+    <input type="button" onclick="find()" value="查找网站"/>
+    <p id="find_result"><br/></p>
+</div>
+<br/>
+<div id="list">
+</div>
+<script>
+    function loadAll() {
+        var list = document.getElementById("list");
+        if(localStorage.length>0){
+            var result = "<table border='1'>";
+            result += "<tr><td>sitename</td><td>siteurl</td></tr>";
+            for(var i=0;i<localStorage.length;i++)
+            {
+                var sitename = localStorage.key(i);
+                var siteurl= localStorage.getItem(sitename);
+
+
+            }
+        }
+    }
+</script>
+
+
+</body>
+</html>

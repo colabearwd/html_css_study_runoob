@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WebStorage</title>
+</head>
+<body>
+<div id="result">
+
+</div>
+<script>
+    if(typeof(Storage)!=="undefined")
+    {
+        //localStorage.sitename="习大大的十九大";
+        //localStorage.setItem("sitename","wangdongdong");
+        document.getElementById("result").innerHTML="重点是："+localStorage.sitename;
+
+    }
+    else
+    {
+        document.getElementById("result").innerHTML="你的浏览器不支持webstorage";
+
+
+    }
+
+
+</script>
+<!--
+
+ 不管是 localStorage，还是 sessionStorage，可使用的API都相同，常用的有如下几个（以localStorage为例）：
+
+    保存数据：localStorage.setItem(key,value);
+    读取数据：localStorage.getItem(key);
+    删除单个数据：localStorage.removeItem(key);
+    删除所有数据：localStorage.clear();
+    得到某个索引的key：localStorage.key(index);
+
+-->
+</body>
+</html>

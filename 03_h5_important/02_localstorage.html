@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>localstorage</title>
+</head>
+<body>
+<div >
+    <form action="">
+        <lebal>网站名-key</lebal>
+        <input type="text" id="key_in">
+        <br>
+        <lebal>网站-url</lebal>
+        <input type="text" id="url_in">
+        <br>
+        <input type="submit" value="add a new data" onclick="save()">
+    </form>
+    <hr>
+    <form action="">
+        <lebal>网站名-key</lebal>
+        <input type="text" id="key_se">
+        <br>
+        <input type="submit" value="search data" onclick="search()">
+        <div>
+            <p id="search_result"><br></p>
+        </div>
+    </form>
+    <input type="button" onclick="del()" value="del all data">
+
+</div>
+
+<div id="list">
+
+</div>
+<script>
+    loadAll();
+    function save() {
+        var key=document.getElementById("key_in").value;
+
+        var url=document.getElementById("url_in").value;
+        localStorage.setItem(key,url);
+        alert("had added a new data");
+
+    }
+
+    function del() {
+        localStorage.clear();
+
+    }
+    function search() {
+        var search_key=document.getElementById("key_se").value;
+        var search_url=localStorage.getItem(search_key);
+
+
+        if (search_url!=null)
+        {
+            var res=search_key+"的网址是：";
+            res +=search_url;
+            document.getElementById("search_result").innerHTML=res;
+
+        }
+        else
+        {
+            document.getElementById("search_result").innerHTML="没有结果"
+        }
+
+    }
+
+
+
+
+
+
+
+    function loadAll() {
+        var list = document.getElementById("list");
+        if (typeof (Storage)!=="undefined")
+        {
+
+            var res ="<table border='1'>";
+            res +="<tr><td>Key</td><td>Value</td></tr>";
+            for(var i=0;i<localStorage.length;i++)
+            {
+                var sitename = localStorage.key(i);
+                var siteurl = localStorage.getItem(sitename);
+                res += "<tr><td>"+sitename+"</td><td>"+siteurl+"</td></tr>";
+
+            }
+            res +="</table>";
+            list.innerHTML=res;
+        }
+        else
+        {
+            list.innerHTML="数据为空";
+        }
+
+    }
+</script>
+</body>
+</html>
